@@ -1,0 +1,12 @@
+MANIFEST.in
+setup.py
+src/tasks/__init__.py
+src/tasks/api.py
+src/tasks/cli.py
+src/tasks/config.py
+src/tasks/tasksdb.tinydb.py
+src/tasks/tasksdb_pymongo.py
+src/tasks.egg-info/PKG-INFO
+src/tasks.egg-info/SOURCES.txt
+src/tasks.egg-info/dependency_links.txt
+src/tasks.egg-info/top_level.txt
