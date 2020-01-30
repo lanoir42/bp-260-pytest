@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: some-package
+Version: 1.0
+Summary: Demonstrate packaging and distribution
+Home-page: https://github.com/lanoir42
+Author: lanoir42
+Author-email: lanoir42@example.org
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
